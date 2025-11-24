@@ -20,11 +20,11 @@
 ## 🧭 Table of Contents
 
 * [💡 About the Project](#-about-the-project)
-* [🕹️ Available Games](#-available-games)
+* [🕹️ Available Games](#%EF%B8%8F-available-games)
 * [🚀 Key Features](#-key-features)
-* [🛠️ Technologies](#-technologies)
-* [📸 Game Previews](#-game-previews)
-* [⚙️ Installation](#-installation-and-usage)
+* [🛠️ Technologies](#%EF%B8%8F-technologies)
+* [📸 Game Previews](#%EF%B8%8F-game-previews)
+* [⚙️ Installation](#%EF%B8%8F-installation)
 * [🤝 Team Members](#-team-members)
 
 ---
@@ -122,6 +122,7 @@ This project was developed by:
 
 
 Feel free to check out our GitHub profiles!
+
 
 
 
